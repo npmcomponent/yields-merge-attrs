@@ -11,7 +11,10 @@
 
 ## API
 
+#### merge(a, b)
 
+  Merge `b`'s attributes with `a`, skipping unspecified, `id`, `class`
+  and attributes that `a` already has.
 
 ## License
 
