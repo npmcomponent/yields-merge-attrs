@@ -1,0 +1,12 @@
+{
+  "name": "yields-merge-attrs",
+  "description": "Merge attributes of b into a",
+  "version": "0.0.1",
+  "keywords": [
+    "merge",
+    "attrs"
+  ],
+  "main": "index.js",
+  "dependencies": {},
+  "license": "MIT"
+}
